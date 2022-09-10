@@ -1,0 +1,22 @@
+header {	
+	color: blueviolet;
+}
+
+span {
+	color: red;
+}
+
+.text span{
+	color: blue;
+}
+
+.text h4 {
+	color: brown;
+}
+
+.wrap p{
+	color: darkorange;
+}
+
+
+
